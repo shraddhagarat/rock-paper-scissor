@@ -1,0 +1,30 @@
+body {
+  background-image: url("images/marcus-wallis-R1qHDAEnCmc-unsplash.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background {
+  margin: 100px auto;
+  color: rgb(5, 5, 5);
+  width: 500px;
+  height: 300px;
+  background-color: rgb(234, 234, 250);
+  text-align: center;
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.computer-choice {
+  padding-top: 50px;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 0 10px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(28, 138, 182);
+}
